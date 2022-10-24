@@ -1,0 +1,38 @@
+.buscador {padding: 10%;background-color: #dadbf1;} 
+h1 {text-align: center; padding: 4%;}
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  margin: auto;
+  max-width: 1170px;
+}
+.footer {
+  background-color: black;
+  padding: 70px 0;
+  box-sizing: border-box;
+}
+ul {
+  list-style: none;
+}
+a {color: #ffffff; text-decoration: none; margin: 0; size: 1rem;}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.footer-col {
+  width: 25%;
+  color: #ffffff;
+}
+
+.footer-col h4 {
+  font-size: 18px;
+  color: #ffffff;
+  margin-left: 10%;
+  font-weight: 600;
+}
